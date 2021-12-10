@@ -1,0 +1,1 @@
+outPut << "I am writing in file" << endl;
